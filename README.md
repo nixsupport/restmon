@@ -3,6 +3,7 @@ Linux servers monitoring solution using REST API
 
 This project is an attempt to monitor Linux servers using REST APIs. 
 It is based on Python 2.7 and Flask.
+
 Following APIs are possible to expose as of now:
 1. To monitor CPU utilization
 2. To monitor Memory utilization
