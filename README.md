@@ -24,7 +24,7 @@ It is based on Python 2.7 and Flask.
 Checkout all files on your server which you want to be monitored. Ensure you must have Python and Flask installed.<br>
 Run api.py using python and it will start its internal HTTP server. It is not recommended for Production though.
 <hr>
-<b>Syntax:</b>
+<b>Syntax:</b><br>
 python api.py
 
 Once started, try accessing the URL in any of the REST API client. The response will be in pure JSON format.<br>
